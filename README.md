@@ -16,9 +16,9 @@
 
 ### Each presentation should include 5-8 minutes of polished content with slides. 
   
-  Link to your slide deck (google slides recommended): __________________
+  Link to your slide deck (google slides recommended): https://docs.google.com/presentation/d/1h6sQAAek8rENzWTgLIl0HUug3UOVMulc3sN1OeUWOpI/edit?usp=sharing
   
-  Name of your Gear Up Presentation: ______________________
+  Name of your Gear Up Presentation: ___The Economics of Inclusion___________________
   
   Talking points for your presentation:
 
@@ -30,8 +30,8 @@
     
 Checklist: 
 
-- [ ] Does your Gear Up have a title?
-- [ ] Do you have a slide deck that has permission for ANYONE WITH THE LINK to view it?
+- [x] Does your Gear Up have a title?
+- [x] Do you have a slide deck that has permission for ANYONE WITH THE LINK to view it?
 - [ ] Did you include an introduction of yourself?
 - [ ] Did you include a connection to gear up and why this talk is important to you?
 - [ ] Do you have engaging content?
